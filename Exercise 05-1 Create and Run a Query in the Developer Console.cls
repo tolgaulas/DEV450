@@ -1,0 +1,1 @@
+SELECT CaseNumber, ClosedDate, Id, IsClosed, Status, Subject FROM Case
